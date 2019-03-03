@@ -3,7 +3,7 @@
 [o!c]: /wiki/shared/mode/catch.png
 [o!m]: /wiki/shared/mode/mania.png
 
-# Contests
+# Kontes
 
 Various contests ran within the osu!community.
 
