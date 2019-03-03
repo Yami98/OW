@@ -5,7 +5,7 @@
 
 # Kontes
 
-Various contests ran within the osu!community.
+Various contests ran within the osu!community.(Berbagai macam kontes yang di jalankan oleh osu!community)
 
 ## Official Beatmapping Contests
 
