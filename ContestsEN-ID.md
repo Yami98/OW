@@ -7,17 +7,17 @@
 
 Various contests ran within the osu!community.(Berbagai macam kontes yang di jalankan oleh osu!community)
 
-## Official Beatmapping Contests
+## Official Beatmapping Kontes
 
-Official beatmapping contests hosted by the osu!staff.
+Official beatmapping kontes yang di selenggarakan oleh osu!staff.
 
-### Monthly Beatmapping Contest
+### Monthly Beatmapping Kontes
 
-Notes:
+Catatan:
 
-- Winners of this contest will receive the "Elite Mapper" forum title
-- Winning mapsets from MBC \#1 to \#12 (except for MBC \#6) have been / will be bundled with the [osu!installer](https://osu.ppy.sh/p/download) (along with [osu!tutorial](https://osu.ppy.sh/s/3756)).
-- Winning mapsets since MBC \#13 have been / will be featured by the osu! media team.
+- Winners of this contest will receive the "Elite Mapper" forum title(Pemenang dari kontes ini akan mendapatkan )
+- Pemenang mapsets dari MBC \#1 to \#12 (kecuali untuk MBC \#6) sudah / akan di gabung dengan [osu!installer](https://osu.ppy.sh/p/download) (bersama dengan [osu!tutorial](https://osu.ppy.sh/s/3756)).
+- Pemenang mapsets sejak MBC \#13 sudah / akan di utamakan oleh osu! media team.
 
 | Contest No. | Beatmap                                                                                                | Mode                 | Mapper                                          | Results                                         | Scores                                                 |
 |:-----------:|--------------------------------------------------------------------------------------------------------|:--------------------:|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------|
